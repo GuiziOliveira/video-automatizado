@@ -1,0 +1,19 @@
+{
+  "name": "video-automatizado",
+  "version": "1.0.0",
+  "description": "Vídeos Automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiziOliveira/video-automatizado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiziOliveira/video-automatizado/issues"
+  },
+  "homepage": "https://github.com/GuiziOliveira/video-automatizado#readme"
+}
