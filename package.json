@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GuiziOliveira/video-automatizado/issues"
   },
-  "homepage": "https://github.com/GuiziOliveira/video-automatizado#readme"
+  "homepage": "https://github.com/GuiziOliveira/video-automatizado#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
